@@ -1,0 +1,15 @@
+/* Örneğin, App.css veya main.css içinde */
+.Toastify__toast--success {
+     background-color: #4caf50;
+     /* Başarılı bildirim için yeşil */
+}
+
+.Toastify__toast--error {
+     background-color: #f44336;
+     /* Hata bildirimleri için kırmızı */
+}
+
+.Toastify__toast--warning {
+     background-color: #ff9800;
+     /* Uyarı bildirimleri için turuncu */
+}

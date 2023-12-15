@@ -1,0 +1,10 @@
+
+/* Tablo gölge efekti */
+.table {
+     box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15);
+}
+
+/* Form elemanları için özel stiller */
+.form-label {
+     font-weight: bold;
+}
