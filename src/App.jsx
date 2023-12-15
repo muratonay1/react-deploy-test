@@ -34,8 +34,6 @@ function App() {
 
      });
 
-
-
      const handleLogin = async (email, password) => {
           try {
                await pocketAuth.authenticate(email, password);
