@@ -28,9 +28,10 @@ function App() {
      pocket.put("_id","ivg0Kgq58rPjBDrUg0");
      pocket.put("age",65)
 
-
+     console.log("Hello deploy to dev.");
      PocketLocalService.executeService("UpdateUserAge",pocket,(response)=>{
           console.log(response);
+
      });
 
 
